@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/corona-monitor-website/static/css/main.0ca48b9c.chunk.css",
+    "main.js": "/corona-monitor-website/static/js/main.45ea256c.chunk.js",
+    "main.js.map": "/corona-monitor-website/static/js/main.45ea256c.chunk.js.map",
+    "runtime-main.js": "/corona-monitor-website/static/js/runtime-main.8d9fecdc.js",
+    "runtime-main.js.map": "/corona-monitor-website/static/js/runtime-main.8d9fecdc.js.map",
+    "static/js/2.2f53841a.chunk.js": "/corona-monitor-website/static/js/2.2f53841a.chunk.js",
+    "static/js/2.2f53841a.chunk.js.map": "/corona-monitor-website/static/js/2.2f53841a.chunk.js.map",
+    "index.html": "/corona-monitor-website/index.html",
+    "precache-manifest.a6b5a5e48e5e729cd23887cbcfc90596.js": "/corona-monitor-website/precache-manifest.a6b5a5e48e5e729cd23887cbcfc90596.js",
+    "service-worker.js": "/corona-monitor-website/service-worker.js",
+    "static/css/main.0ca48b9c.chunk.css.map": "/corona-monitor-website/static/css/main.0ca48b9c.chunk.css.map",
+    "static/js/2.2f53841a.chunk.js.LICENSE.txt": "/corona-monitor-website/static/js/2.2f53841a.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/corona-monitor-website/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d9fecdc.js",
+    "static/js/2.2f53841a.chunk.js",
+    "static/css/main.0ca48b9c.chunk.css",
+    "static/js/main.45ea256c.chunk.js"
+  ]
+}
